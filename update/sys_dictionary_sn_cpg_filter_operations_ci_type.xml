@@ -53,7 +53,7 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-03-30 04:09:02</sys_created_on>
-        <sys_id>cc5e5b8c1b3cd4103a4abb7c0a4bcbde</sys_id>
+        <sys_id>9065dfca2fa11010136bb0c62799b675</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>CI types</sys_name>
         <sys_package display_value="CPG Resource Operations Filter" source="sn_cpg_filter">0f7fa6a25b330010720b1ec76981c7de</sys_package>
@@ -61,7 +61,7 @@
         <sys_scope display_value="CPG Resource Operations Filter">0f7fa6a25b330010720b1ec76981c7de</sys_scope>
         <sys_update_name>sys_dictionary_sn_cpg_filter_operations_ci_type</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-05-11 06:08:05</sys_updated_on>
+        <sys_updated_on>2020-06-23 17:23:58</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
